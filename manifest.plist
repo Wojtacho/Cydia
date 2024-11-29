@@ -17,13 +17,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>bundleID/string>
-                <key>bundle-version</key>
+                <string>com.phoenix.jailbreak</string>
+                <key>1.0</key>
                 <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
-                <key>title</key>
-                <string>AppNamer</string>
+                <key>Phoenix</key>
+                <string>Wojtek</string>
             </dict>
         </dict>
     </array>
